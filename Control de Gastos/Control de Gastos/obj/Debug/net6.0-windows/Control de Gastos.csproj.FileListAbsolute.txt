@@ -1,0 +1,19 @@
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\bin\Debug\net6.0-windows\Control de Gastos.exe
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\bin\Debug\net6.0-windows\Control de Gastos.deps.json
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\bin\Debug\net6.0-windows\Control de Gastos.runtimeconfig.json
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\bin\Debug\net6.0-windows\Control de Gastos.dll
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\bin\Debug\net6.0-windows\ref\Control de Gastos.dll
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\bin\Debug\net6.0-windows\Control de Gastos.pdb
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control de Gastos.csproj.AssemblyReference.cache
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control de Gastos.csproj.GenerateResource.cache
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control de Gastos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control de Gastos.AssemblyInfoInputs.cache
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control de Gastos.AssemblyInfo.cs
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control de Gastos.csproj.CoreCompileInputs.cache
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control de Gastos.dll
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\ref\Control de Gastos.dll
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control de Gastos.pdb
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control de Gastos.genruntimeconfig.cache
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control_de_Gastos.CategoríaForm.resources
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control_de_Gastos.ConceptoForm.resources
+C:\Users\Huan_\source\repos\Control de Gastos\Control de Gastos\obj\Debug\net6.0-windows\Control_de_Gastos.Main.resources
