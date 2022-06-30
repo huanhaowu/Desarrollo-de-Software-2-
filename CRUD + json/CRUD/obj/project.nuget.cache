@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwgyqVLZBkGxcZrQXvXs/vtsqa3zVeFZswBo/1ZRatV9IFJCKqLYY1i0IEAiKfHfLyaw17SS8p1C+I3xoajmQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huan_\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huan_\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
